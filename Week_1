@@ -1,0 +1,21 @@
+Hey Coders! 👋
+
+Let's dive into an interesting challenge! 🎯 
+
+### Problem:
+Given an integer n, your task is to find the *smallest prime palindrome* greater than or equal to n. But before we get started, here are a couple of key points to keep in mind:
+
+- Prime Numbers: An integer is prime if it has exactly two divisors: 1 and itself. For example, 2, 3, 5, 7, 11, and 13 are prime numbers. Remember, 1 is not a prime number!
+
+- Palindromes: An integer is a palindrome if it reads the same forwards and backwards. For example, 101 and 12321 are palindromes.
+
+### Examples:
+1. If n = 6, the output is 7.
+2. If n = 8, the output is 11.
+3. If n = 13, the output is 101.
+
+Your mission is to code a solution that finds this special number efficiently! 🧑‍💻✨
+
+And your time-limit is 3 days! Happy Coding!
+
+Good luck! 💪
